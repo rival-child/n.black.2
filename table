@@ -1,0 +1,12 @@
+<table>
+«caption> Monthly Expenses</caption> <thead> <tr>
+<th>Category</th>
+<th colspan- "2">January</ th> <th colspan= "2">February</th> <th colspan= "2">March</th></tr>
+ <tr>
+<th></th> <th>Amount</th> <th>Status</th> <th>Amount</th> <th>Status</th> <th>Amount</th> <th>Status</th> </tr> </thead>
+<tr>
+<td>Housing</td> <td>$1000</td> <td>Paid</td> <td>$1000</td><td>Paid</td> <td>$1000</td> <td>Paid</td> <td>$1000</td> <td>Paid</td> </tr> <tr>
+<td>Transportation</td> <td>$500</td> <td>Paid</td> <td>$500</td> <td>Paid</td> <td>$500</td> <td>Paid</td> </tr>
+<tr>
+<td>Food</td> <td>$300</td> <td>Paid</td> <td>$300</td> <td>Paid</td> <td>$300</td> <td>Paid</td>
+</tr> </tbody> </ table>
